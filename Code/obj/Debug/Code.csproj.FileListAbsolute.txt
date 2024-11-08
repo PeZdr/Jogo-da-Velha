@@ -1,0 +1,7 @@
+C:\Users\Pedri\OneDrive\Área de Trabalho\Cotmig\PC\Trabalho\Code\Code\bin\Debug\Code.exe.config
+C:\Users\Pedri\OneDrive\Área de Trabalho\Cotmig\PC\Trabalho\Code\Code\bin\Debug\Code.exe
+C:\Users\Pedri\OneDrive\Área de Trabalho\Cotmig\PC\Trabalho\Code\Code\bin\Debug\Code.pdb
+C:\Users\Pedri\OneDrive\Área de Trabalho\Cotmig\PC\Trabalho\Code\Code\obj\Debug\Code.csproj.AssemblyReference.cache
+C:\Users\Pedri\OneDrive\Área de Trabalho\Cotmig\PC\Trabalho\Code\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+C:\Users\Pedri\OneDrive\Área de Trabalho\Cotmig\PC\Trabalho\Code\Code\obj\Debug\Code.exe
+C:\Users\Pedri\OneDrive\Área de Trabalho\Cotmig\PC\Trabalho\Code\Code\obj\Debug\Code.pdb
